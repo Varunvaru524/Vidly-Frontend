@@ -1,0 +1,25 @@
+@import url('../../Index.css');
+
+header{
+    margin-bottom: 25px;
+}
+nav>ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--navBarBackground);
+}
+nav>ul>a{
+    margin: 20px;
+    list-style: none;
+    text-decoration: none;
+    color: var(--navBarFont);
+    font-size: 20px;
+}
+nav>ul>a:first-child{
+    font-size: 35px;
+    color: var(--primary);
+}
+.active{
+    color: var(--primary);
+}

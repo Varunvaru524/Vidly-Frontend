@@ -1,0 +1,15 @@
+@import url(../../Index.css);
+
+
+
+.paginationContainer button{
+    padding: 8px;
+    margin: 5px;
+    border: 1px solid var(--borderColor);
+    border-radius: 5px;
+    background-color: transparent;
+}
+.paginationContainer button:hover{
+    background-color: var(--primary);
+    color: white;
+}

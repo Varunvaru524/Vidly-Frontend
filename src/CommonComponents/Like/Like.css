@@ -1,0 +1,6 @@
+@import url(../../Index.css);
+
+
+.fa-heart{
+    color: var(--red);
+}

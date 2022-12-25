@@ -1,0 +1,28 @@
+@import url(../../Index.css);
+
+.filterOuterContainer{
+    margin-top: 60px;
+}
+.filterContainer{
+    width: 80%;
+    display: inline-block;
+    border: 1px solid var(--borderColor);
+    border-radius: 5px;
+    overflow: hidden;
+}
+.filterElements{
+    display: block;
+    padding: 8px 15px;
+    width: 100%;
+    border-width: 1px 0px 0px 0px;
+    border-top-color:  var(--borderColor) ;
+    background-color: transparent;
+    cursor: pointer;
+}
+.filterElements:first-child{
+    border-top-color:  transparent;
+}
+.filterElements:hover{
+    background-color: var(--primary);
+    color: white;
+}

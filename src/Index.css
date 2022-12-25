@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Signika+Negative:wght@300;500;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* background-color: rgba(1, 112, 8, 0.155); */
+    font-family: 'Signika Negative', sans-serif;
+}
+:root{
+    --primary:rgb(0, 53, 245);
+    --red:rgb(195, 5, 5);
+    --borderColor:grey;
+    --navBarBackground:rgb(209, 215, 240);
+    --navBarFont:rgb(80, 103, 255);
+}
+
+main{
+    display: grid;
+    grid-template-columns: 150px auto;
+    width: 90%;
+    margin: auto;
+}
+#dbCount{
+    padding: 20px 0px;
+}
