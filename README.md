@@ -15,31 +15,32 @@
 # Screenshots
 
 ### All Movies
-![Movies](./Readme Images/Screenshot 2022-12-26 123721.png)<br>
+![Movies](./Readme-Images/Movies.png)<br>
 
 ### Login Page
-![Movies](./Readme Images/Screenshot 2022-12-26 123721.png)<br>
+![Login-Page](./Readme-Images/Login-Page.png) <br>
 
 ### Login Page Validation
-![Movies](./Readme Images/Screenshot 2022-12-26 123721.png)<br>
+
+![Login-Page-Validation](./Readme-Images/Login-Page-Validation.png) <br>
 
 ### Registration Page
-![Movies](./Readme Images/Screenshot 2022-12-26 123721.png)<br>
+![Registration-Page](./Readme-Images/Registration-Page.png)<br>
 
 ### Registration Page Validation
-![Movies](./Readme Images/Screenshot 2022-12-26 123721.png)<br>
+![Registration-Page-Validation](./Readme-Images/Registration-Page-Validation.png)<br>
 
 ### After Loggedin
-![Movies](./Readme Images/Screenshot 2022-12-26 123721.png)<br>
+![After-Loggedin](./Readme-Images/After-Loggedin.png)<br>
 
 ### Movie Form
-![Movies](./Readme Images/Screenshot 2022-12-26 123721.png)<br>
+![Movie-Form](./Readme-Images/Movie-Form.png)<br>
 
 ### Movie Form validation
-![Movies](./Readme Images/Screenshot 2022-12-26 123721.png)<br>
+![Movie-Form-validation](./Readme-Images/Movie-Form-validation.png)<br>
 
-### Norfound Page
-![Movies](./Readme Images/Screenshot 2022-12-26 123721.png)
+### Not Found Page
+![Not-Found-Page](./Readme-Images/Not-Found-Page.png)
 
 # Technologies Used
 
